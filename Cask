@@ -5,4 +5,4 @@
 (development
   (depends-on "ecukes")
   (depends-on "espuds")
-  (depends-on "undercover"))
+  (depends-on "undercover" :git "https://github.com/sviridov/undercover.el"))
